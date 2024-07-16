@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="checkBoxText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmContextMenuStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDataGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGroupBox&amp;Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenuStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSplitContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStatusStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmToolStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTreeView1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTreeView2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="subForm\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDelegate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCheckedListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmImageList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaskedTextBox .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRichTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThreadingTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTimersTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
