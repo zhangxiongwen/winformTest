@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\obj\\Debug\\net472\\WinFormsTest.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsTest\\obj\\Debug\\net472\\WinFormsTest.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\winformstest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\winformstest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\winformstest\\checkboxtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\checkboxtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\helper\\cmdinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\helper\\cmdinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\frmtreeview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\frmtreeview2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\frmsplitcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\frmsplitcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\frmmenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\frmmenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\frmdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\frmdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|c:\\users\\43573\\desktop\\c#\\winformdemo\\winformstest\\frmdelegate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688521D5-C846-4FB9-946F-49E0D596E67C}|WinFormsTest\\WinFormsTest.csproj|solutionrelative:winformstest\\frmdelegate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\Helper\\DBHelper.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\Helper\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\Helper\\DBHelper.cs",
+              "RelativeToolTip": "WinFormsTest\\Helper\\DBHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:19:20.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsTest.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\obj\\Debug\\net472\\WinFormsTest.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\obj\\Debug\\net472\\WinFormsTest.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\obj\\Debug\\net472\\WinFormsTest.GlobalUsings.g.cs",
+              "RelativeToolTip": "WinFormsTest\\obj\\Debug\\net472\\WinFormsTest.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:13:31.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\Program.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\Program.cs",
+              "RelativeToolTip": "WinFormsTest\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:12:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "checkBoxText.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\checkBoxText.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\checkBoxText.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\checkBoxText.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsTest\\checkBoxText.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:07:26.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CmdInfo.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\Helper\\CmdInfo.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\Helper\\CmdInfo.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\Helper\\CmdInfo.cs",
+              "RelativeToolTip": "WinFormsTest\\Helper\\CmdInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:06:52.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTreeView2.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmTreeView2.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\frmTreeView2.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmTreeView2.cs",
+              "RelativeToolTip": "WinFormsTest\\frmTreeView2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:06:05.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSplitContainer.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmSplitContainer.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\frmSplitContainer.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmSplitContainer.cs",
+              "RelativeToolTip": "WinFormsTest\\frmSplitContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:05:40.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinFormsTest",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\WinFormsTest.csproj",
+              "RelativeDocumentMoniker": "WinFormsTest\\WinFormsTest.csproj",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\WinFormsTest.csproj",
+              "RelativeToolTip": "WinFormsTest\\WinFormsTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T07:58:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMenuStrip.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmMenuStrip.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\frmMenuStrip.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmMenuStrip.cs",
+              "RelativeToolTip": "WinFormsTest\\frmMenuStrip.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:57:42.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmDelegate.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\frmDelegate.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmDelegate.cs",
+              "RelativeToolTip": "WinFormsTest\\frmDelegate.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:57:16.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDelegate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmDelegate.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsTest\\frmDelegate.Designer.cs",
+              "ToolTip": "C:\\Users\\43573\\Desktop\\C#\\WinformDemo\\WinFormsTest\\frmDelegate.Designer.cs",
+              "RelativeToolTip": "WinFormsTest\\frmDelegate.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:57:09.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,8 +10,9 @@ namespace WinFormsTest
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new FrmUser());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new FrmUser());
             //Application.Run(new frmSubmit());
             //Application.Run(new FrmListBox());
             //Application.Run(new frmComboBox());
@@ -23,7 +24,7 @@ namespace WinFormsTest
             //Application.Run(new frmRichTextBox());
             //Application.Run(new frmTimer());
             //Application.Run(new frmTimersTimer());
-            //Application.Run(new frmThreadingTimer());
+            Application.Run(new frmThreadingTimer());
             //Application.Run(new frmDelegate());
             //Application.Run(new frmEvent());
             //Application.Run(new frmProgressBar());
